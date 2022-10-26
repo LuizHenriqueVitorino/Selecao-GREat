@@ -1,5 +1,5 @@
 # Selecao-GREat
-## teste da aplicação Testlink
+## teste da aplicação Testlin
 
 Repositório destinado aos testes automatizados para a seleção de estágio na(o) GREat.
 Aqui, iremos resolver o seguinte desafio:
@@ -24,3 +24,8 @@ Portanto, para rodar a swite de teste, precisaremos das seguintes dependências:
 > pip install selenium
 3. Instalar o behave
 > pip install behave
+
+**OBS: Escrevi uma versão mais simples do código, onde utilizei apenas o Selenium**
+```md
+https://github.com/LuizHenriqueVitorino/Selecao-GREat-Simples
+```
